@@ -13,7 +13,7 @@ public class Task7 {
             c = b;
             b = b.add(a);
             a = c;
-            System.out.println(i + " - " + b);
+            System.out.println(b);
         }
     }
 }
